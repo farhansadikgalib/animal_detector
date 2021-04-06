@@ -18,14 +18,6 @@ class _SplashPageState extends State<SplashPage> {
       image: Image.asset("assets/icon.png"),backgroundColor: Colors.white,photoSize: 75,
       loaderColor: Colors.orange,
       loadingText: Text("Developed by Farhan",style: TextStyle(fontSize: 16,color: Colors.black),),
-      
-      
-
-
-
-
-
-
     );
   }
 }
